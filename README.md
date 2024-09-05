@@ -1,7 +1,6 @@
 #  Siyahat 
 
 **A full-stack tourism website that allows users to explore, share, and discuss beautiful destinations worldwide**
----
 
 ## Project Overview
 

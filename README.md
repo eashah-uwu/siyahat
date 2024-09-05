@@ -15,7 +15,23 @@ Siyahat is a full-stack web application designed for travel enthusiasts. Users c
 - **Search**: Find destinations by name, region, or category.
 - **Reviews**: Leave ratings and reviews for your favorite destinations.
 
-
+<table>
+  <tr>
+    <td><img width="350px" src="https://github.com/eashah-uwu/eashah-uwu/blob/main/Picture3.jpg" alt="Siyahat" /></td>
+    <td><img width="350px" height="auto" src="https://github.com/eashah-uwu/siyahat/blob/main/Picture4.jpg" alt="Siyahat" /></td>
+  </tr>
+  <tr>
+    <td><img width="350px" height="auto" src="https://github.com/eashah-uwu/siyahat/blob/main/Picture5.jpg" alt="Siyahat" /></td>
+    <td><img width="350px" src="https://github.com/eashah-uwu/siyahat/blob/main/Picture6.png" alt="Siyahat" /></td>
+  </tr>
+  <tr>
+    <td><img width="350px" src="https://github.com/eashah-uwu/siyahat/blob/main/Picture7.jpg" alt="Siyahat" /></td>
+    <td><img width="350px" src="https://github.com/eashah-uwu/siyahat/blob/main/Picture8.jpg" alt="Siyahat" /></td>
+  </tr>
+  <tr>
+    <td><img width="350px" src="https://github.com/eashah-uwu/siyahat/blob/main/Picture9.jpg" alt="Siyahat" /></td>
+  </tr>
+</table>
 
 ---
 
